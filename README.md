@@ -13,7 +13,7 @@ The skills below represent areas I am actively developing through hands-on labs 
 
 | Skill | Associated Project / Evidence |
 |---|---|
-| Security Operations & Monitoring | **Pending** |
+| Security Operations & Monitoring | <a href="https://github.com/arjemproject/Active-Directory-Project/tree/main">Active Directory Project (Home Lab)</a> |
 | SIEM & Log Analysis | **Pending** |
 | Detection Engineering | **Pending** |
 | Threat Hunting | **Pending** |
@@ -124,7 +124,5 @@ The skills below represent areas I am actively developing through hands-on labs 
 
 ## Projects
 
-## Projects
-
-- **[Active Directory Home Lab](https://example.com/)**
+- <a href="https://github.com/arjemproject/Active-Directory-Project/tree/main"> Active Directory Project (Home Lab) </a>
   A hands-on lab focused on building and securing an Active Directory environment, including identity management, Windows administration, authentication, security controls, and monitoring.
